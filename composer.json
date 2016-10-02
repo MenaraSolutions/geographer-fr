@@ -1,0 +1,15 @@
+{
+    "name": "menarasolutions/geographer-fr",
+    "type": "library",
+    "description": "French translations for Geographer library",
+    "keywords": ["french","geographer","geolocation","localization"],
+    "homepage": "https://github.com/MenaraSolutions/geographer-fr",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Mysenko",
+            "email": "denis@menara.com.au",
+            "homepage": "https://www.menara.com.au"
+        }
+    ]
+}
